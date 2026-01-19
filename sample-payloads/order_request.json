@@ -1,0 +1,6 @@
+{
+  "orderId": "ORD12345",
+  "orderType": "STANDARD",
+  "customerId": "CUST001",
+  "amount": 2500
+}
